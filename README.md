@@ -19,7 +19,6 @@
 - 🤝 Open to collaboration on meaningful open-source and real-world projects
 - 💬 Ask me about **web development, Git, GitHub, APIs, and clean code**
 
-> Tip: If you want, tell me your exact tech stack + your best projects and I’ll tailor this README to match them.
 
 ---
 
@@ -42,7 +41,6 @@
 
 ## Featured Projects
 
-> Pin your best repositories so they show up here automatically.
 
 <div align="center">
 
